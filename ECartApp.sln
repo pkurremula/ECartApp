@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECartAppAPI", "ECartAppAPI\ECartAppAPI.csproj", "{C8C3A40B-08F1-4D57-877C-2B9999312560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECartCore", "ECartCore\ECartCore.csproj", "{7AB4D865-114D-4FED-A5AE-FD51327128C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECartInfra", "ECartInfra\ECartInfra.csproj", "{B34068CF-6B63-403A-8D6A-8C95EE196CBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C3A40B-08F1-4D57-877C-2B9999312560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C3A40B-08F1-4D57-877C-2B9999312560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C3A40B-08F1-4D57-877C-2B9999312560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C3A40B-08F1-4D57-877C-2B9999312560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB4D865-114D-4FED-A5AE-FD51327128C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB4D865-114D-4FED-A5AE-FD51327128C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB4D865-114D-4FED-A5AE-FD51327128C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB4D865-114D-4FED-A5AE-FD51327128C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34068CF-6B63-403A-8D6A-8C95EE196CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34068CF-6B63-403A-8D6A-8C95EE196CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34068CF-6B63-403A-8D6A-8C95EE196CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34068CF-6B63-403A-8D6A-8C95EE196CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
